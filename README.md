@@ -13,10 +13,7 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 - Deverá conter no mínimo 2 imagens
 - Deverá inserir uma tabela comparativa, exemplicando o use case
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
-
-<img src="https://www.patasdacasa.com.br/sites/default/files/styles/webp/public/noticias/2022/02/E-possivel-ver-um-cachorro-sorrindo-descubra-e-saiba-como-identificar.jpg.webp?itok=UYmPTLUx" alt="cachorro sorrindo" width="508px">
-
-
+- 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
 # Engenharia de Requisitos
@@ -40,3 +37,23 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 * "O sistema deve garantir a segurança dos dados do usuário por meio de criptografia AES de 256 bits."
 * "O sistema deve ser compatível com os padrões de acessibilidade WCAG 2.0 nível AA."
 <img src="https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Engenharia_Requisitos/Engenharia_Requisitos_1.jpg" alt="exemplo engenharia de requisitos" width="500px">
+
+# Tabela Exemplo Use Case #
+
+## "Realizando uma Compra" ## 
+
+| Passo | Descrição |
+|-------|-----------|
+| UC1     | O usuário navega pelo catálogo de produtos. 
+| UC2     | O usuário seleciona o produto desejado. 
+| UC3     | O sistema exibe a página de detalhes do produto. 
+| UC4     | O usuário verifica os detalhes e decide adicionar o produto ao carrinho. 
+| UC5     | O sistema atualiza o carrinho com o produto selecionado. 
+| UC6     | O usuário decide continuar comprando ou prossegue para o checkout. 
+| UC7     | O sistema exibe o resumo do pedido no carrinho, incluindo o total a pagar. 
+| UC8     | O usuário confirma o pedido e prossegue para o pagamento. 
+| UC9     | O sistema solicita as informações de pagamento e envio. 
+| UC10    | O usuário fornece as informações necessárias. 
+| UC11    | O sistema processa o pagamento. 
+| UC12    | O sistema confirma o pedido e exibe uma mensagem de confirmação ao usuário. 
+| UC13    | O sistema atualiza o estoque para refletir a compra. 
