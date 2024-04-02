@@ -58,3 +58,8 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 | UC11    | O sistema processa o pagamento. 
 | UC12    | O sistema confirma o pedido e exibe uma mensagem de confirmação ao usuário. 
 | UC13    | O sistema atualiza o estoque para refletir a compra. 
+
+# Sites usados:
+
+* Chat Gpt
+* https://querobolsa.com.br/revista/engenharia-de-requisitos
