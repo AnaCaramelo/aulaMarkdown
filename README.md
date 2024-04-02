@@ -40,7 +40,8 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 # Tabela Exemplo Use Case #
 
-## "Realizando uma Compra" ## 
+## "Realizando uma Compra"
+<img src="https://github.com/AnaCaramelo/aulaMarkdown/blob/main/aaa.jpg?raw=true" alt="exemplo engenharia de requisitos" width="90px">
 
 | Passo | Descrição |
 |-------|-----------|
